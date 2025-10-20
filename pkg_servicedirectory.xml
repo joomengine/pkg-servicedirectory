@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="6.0" type="package" method="upgrade">
+	<name>PKG_SERVICEDIRECTORY</name>
+	<packagename>servicedirectory</packagename>
+	<version>6.0.0</version>
+	<creationDate>October 2025</creationDate>
+	<author>Llewellyn van der Merwe</author>
+	<authorEmail>joomla@vdm.io</authorEmail>
+	<authorUrl>https://io.vdm.dev/</authorUrl>
+	<copyright>Copyright (C) 2015 Llewellyn van der Merwe. All rights reserved.</copyright>
+	<copyrightyear>2015</copyrightyear>
+	<license>GNU General Public License version 2; see LICENSE</license>
+	<packager>Vast Development Method</packager>
+	<packagerurl>https://dev.vdm.io/</packagerurl>
+	<description>The Joomla Service Directory Package that bundles JSD Component and all the plugins and features available into one package for easy install and update of your JSD system for Joomla 6.</description>
+	<scriptfile>install_servicedirectory.php</scriptfile>
+	<updateservers>
+		<server type="extension" name="Service Directory Package - Updates" element="pkg_servicedirectory">https://raw.githubusercontent.com/joomengine/Joomla-Service-Directory/refs/heads/6.x/update_server.xml</server>
+	</updateservers>
+	<changelogurl>https://raw.githubusercontent.com/joomengine/Joomla-Service-Directory/refs/heads/6.x/changelog_server.xml</changelogurl>
+	<languages folder="languages">
+		<language tag="en-GB">en-GB/en-GB.pkg_servicedirectory.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.pkg_servicedirectory.ini</language>
+	</languages>
+	<files folder="src">
+		<file type="component" id="com_servicedirectory">joomla__Service-Directory__6.x.zip</file>
+		<file type="plugin" id="Servicedirectory" group="privacy">joomla__plg_privacy_servicedirectory__6.x.zip</file>
+	</files>
+</extension>
