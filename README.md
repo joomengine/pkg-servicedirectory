@@ -1,4 +1,4 @@
-# Service Directory Package (v6.0.0)
+# Service Directory Package (v6.0.1)
 
 The Joomla Service Directory Package that bundles JSD Component and all the plugins and features available into one package for easy install and update of your JSD system for Joomla 6.
 
