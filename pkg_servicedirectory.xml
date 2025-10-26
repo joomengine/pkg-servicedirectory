@@ -2,7 +2,7 @@
 <extension version="5.3" type="package" method="upgrade">
 	<name>PKG_SERVICEDIRECTORY</name>
 	<packagename>servicedirectory</packagename>
-	<version>5.0.0</version>
+	<version>5.0.1</version>
 	<creationDate>October 2025</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
