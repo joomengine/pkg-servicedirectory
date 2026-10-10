@@ -6,7 +6,7 @@ The Joomla Service Directory Package that bundles JSD Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: December 2025
+- Creation Date: October 2026
 - Max Joomla Version: J5.4
 - Minimum Joomla Version: J5.3
 
