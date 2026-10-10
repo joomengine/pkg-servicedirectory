@@ -1,4 +1,4 @@
-# Service Directory Package (v6.0.3)
+# Service Directory Package (v6.0.4)
 
 The Joomla Service Directory Package that bundles JSD Component and all the plugins and features available into one package for easy install and update of your JSD system for Joomla 6.
 
@@ -6,7 +6,7 @@ The Joomla Service Directory Package that bundles JSD Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: December 2025
+- Creation Date: October 2026
 - Max Joomla Version: J6.1
 - Minimum Joomla Version: J6.0
 
@@ -15,6 +15,8 @@ The Joomla Service Directory Package that bundles JSD Component and all the plug
 - [joomla/Service-Directory](https://git.vdm.robot/joomla/Service-Directory) [6.x](https://git.vdm.robot/joomla/Service-Directory/archive/6.x.zip)
 > 6.x
 - [joomla/plg_privacy_servicedirectory](https://git.vdm.robot/joomla/plg_privacy_servicedirectory) [6.x](https://git.vdm.robot/joomla/plg_privacy_servicedirectory/archive/6.x.zip)
+> 6.x
+- [joomla/plg_webservices_servicedirectoryapiroutes](https://git.vdm.robot/joomla/plg_webservices_servicedirectoryapiroutes) [6.x](https://git.vdm.robot/joomla/plg_webservices_servicedirectoryapiroutes/archive/6.x.zip)
 > 6.x
 
 ### Copyright (2015)
