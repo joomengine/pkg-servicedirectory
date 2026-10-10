@@ -25,5 +25,6 @@
 	<files folder="src">
 		<file type="component" id="com_servicedirectory">joomla__Service-Directory__5.x.zip</file>
 		<file type="plugin" id="Servicedirectory" group="privacy">joomla__plg_privacy_servicedirectory__5.x.zip</file>
+		<file type="plugin" id="Servicedirectory" group="webservices">joomla__plg_webservices_servicedirectoryapiroutes__5.x.zip</file>
 	</files>
 </extension>

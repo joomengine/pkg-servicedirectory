@@ -16,6 +16,8 @@ The Joomla Service Directory Package that bundles JSD Component and all the plug
 > 5.x
 - [joomla/plg_privacy_servicedirectory](https://git.vdm.robot/joomla/plg_privacy_servicedirectory) [5.x](https://git.vdm.robot/joomla/plg_privacy_servicedirectory/archive/5.x.zip)
 > 5.x
+- [joomla/plg_webservices_servicedirectoryapiroutes](https://git.vdm.robot/joomla/plg_webservices_servicedirectoryapiroutes) [5.x](https://git.vdm.robot/joomla/plg_webservices_servicedirectoryapiroutes/archive/5.x.zip)
+> 5.x
 
 ### Copyright (2015)
 > Copyright (C) 2015 Llewellyn van der Merwe. All rights reserved.
